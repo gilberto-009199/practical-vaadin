@@ -1,7 +1,7 @@
 
 # Pratical Vaadin
 
-Content:
+Content in Pratical:
   + [Grid](https://github.com/gilberto-009199/practical-vaadin/tree/main/grid-example) 
   + [Router](https://github.com/gilberto-009199/practical-vaadin/tree/main/router-example) 
   + [Form](https://github.com/gilberto-009199/practical-vaadin/tree/main/form-example) 
