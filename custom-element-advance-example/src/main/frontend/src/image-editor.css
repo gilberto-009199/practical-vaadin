@@ -1,0 +1,14 @@
+.editor-container {
+  border: 2px solid yellow;
+  padding: 10px;
+  display: inline-block;
+  background-color: red;
+}
+
+.controls {
+  margin-top: 10px;
+}
+
+button {
+  margin-right: 5px;
+}
