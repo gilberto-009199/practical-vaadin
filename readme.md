@@ -1,7 +1,7 @@
 
-# Pratical Vaadin
+# Pratica Vaadin
 
-Content in Pratical:
+Conteudo da pratica:
   + [Grid](https://github.com/gilberto-009199/practical-vaadin/tree/main/grid-example) 
   + [Router](https://github.com/gilberto-009199/practical-vaadin/tree/main/router-example) 
   + [Form](https://github.com/gilberto-009199/practical-vaadin/tree/main/form-example) 
@@ -14,7 +14,8 @@ Content in Pratical:
   + [Theme and Variant](https://github.com/gilberto-009199/practical-vaadin/tree/main/theme-and-theme-variant-example) 
 
 
-## References
+## Referencia
 
 + [Book Pratical Vaddin](https://www.researchgate.net/publication/353698911_Practical_Vaadin_Developing_Web_Applications_in_Java) - Developing Web Applications in Java<br />
   <img src="./book-practical-vaadin.jpg" width="128px" alt="book reference Pratical Vaadin">
+
